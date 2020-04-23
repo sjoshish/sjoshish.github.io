@@ -1,15 +1,15 @@
 .name_header{
-	text-align:left;
+
 	font-family:Andale Mono, monospace;
 	color:white;
-	font-size: 60px;
+	font-size: 70px;
 	font-variant: small-caps;
 	letter-spacing:2px;
-	padding-left:8%;
 	position:relative;
-	padding-top:3%
+	padding-top:1.5%;
+	text-align:center;
+	display:block
 }
-
 
 ul li{
 	text-decoration: none;
@@ -46,11 +46,12 @@ ul li.active a{
 
 .nav_prop{
 	color:white;
-	text-align: right;
+	text-align: center;
 	position: relative;
 	font-family: Andale Mono, monospace;
 	letter-spacing:-2px;
-	bottom:50%
+	bottom:10%;
+	font-size: 15px;
 }
 
 
@@ -70,11 +71,9 @@ ul li.active a{
 }
 
 .header_image{
-	width:100%px;
-	height:120px;
- 	position:relative;
- 	margin-left:3%;
-  	margin-right:3%;
+	width:100%;
+	height:25%;
+ 	margin-right: 5%;
  	background-color:FireBrick;
  }
 
