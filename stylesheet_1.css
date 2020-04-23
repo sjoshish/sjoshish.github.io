@@ -50,7 +50,7 @@ ul li.active a{
 	position: relative;
 	font-family: Andale Mono, monospace;
 	letter-spacing:-2px;
-	bottom:10%;
+	padding-bottom:10%;
 	font-size: 15px;
 }
 
