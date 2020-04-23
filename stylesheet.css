@@ -31,9 +31,9 @@ letter-spacing:-2px
 color:white;
 text-align: right;
 position: relative;
-top:-385px;
 font-family: Andale Mono, monospace;
-letter-spacing:-2px
+letter-spacing:-2px;
+padding-bottom:15%
 }
 
 .footer {
